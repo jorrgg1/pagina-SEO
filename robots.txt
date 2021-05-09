@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+Disallow: /cookies/
+Disallow: /contacto/
+Disallow: /quienes-somos/
+
+Sitemap: https://jorrgg1.github.io/pagina-SEO/index.html
